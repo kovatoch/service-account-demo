@@ -5,6 +5,7 @@ from re import match
 import locations
 
 PORT = 8080
+PORT2 = 8081
 
 app = FastAPI()
 
